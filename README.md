@@ -38,6 +38,10 @@ you are expected to:
 
 Assigned readings gives students the opportunity to go beyond this class and read much superior materials that are beyond the scope of this course. **Note**: exam/test questions might be drawn from the required reading assignments.
 
+## Quizzes
+
+This is a pre-lecture quiz, the intention is that, you should be able to answer the questions immediately obvious. If you do, that is a sign that, you are sufficiently engage with the material in this notes or the assigned reading links. If you find that, you cannot answer the quiz questions or you have to go back and find the answers, then that is a sign that, you are not engage with the material.
+
 ## Exam
 
 At the end of the course, there will be a pre-Exam and a final Exam to synthesize and assess mastery of the entire course material.
