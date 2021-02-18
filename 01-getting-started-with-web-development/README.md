@@ -10,7 +10,7 @@ In this section, will cover the general concepts of web development. what is web
 4. Dealing with files
 5. A starter boilerplate
 6. Design (planning and sketching) before coding
-7. A Profile Page
+7. Class Activity - A Profile Page
 
 ## Credits
 
