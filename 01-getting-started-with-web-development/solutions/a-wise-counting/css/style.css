@@ -1,0 +1,18 @@
+
+body {
+    background-color: lightgrey;
+    font-size: 1rem;
+}
+
+.story {
+    max-width: 600px;
+    margin: auto;
+    background-color: white;
+    padding: 3rem;
+    
+}
+
+img {
+    max-width: 100%;
+    border: 5px dotted blue 
+}
