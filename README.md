@@ -1,6 +1,6 @@
 # Web Development  101
 
-Peace, welcome to Web Development 101. This course teaches students how to program the web, using the three fundamental building blocks of the web; HTML, CSS and JavaScript. It also explore Command Line Basics, Basics of Git and Git-Hub, Accessibility of Websites, Web Performance and Jekyll (a static site generator). You will learn how to take your skills from beginner to a professional web developer.
+Peace, welcome to Web Development 101. This course teaches students how to program the web, using the three fundamental building blocks of the web; HTML, CSS and JavaScript. It also explore Command Line Basics, Basics of Git and GitHub Pages, Accessibility of Websites, Web Performance and Jekyll (a static site generator). You will learn how to take your skills from beginner to a professional web developer.
 
 The course projects are designed around what is happening in the real-world to give the students a feel on what is happening in the industry.
 
@@ -10,10 +10,10 @@ This course is in the public domain, since everything here is not originally fro
 
 ## Instructors
 
-| Lecturer                                    | Contact                         |
-| ------------------------------------------- | ------------------------------- |
-| **A. Camariana** - UX/UI Designer & Teacher | 248-8842 \| yirmang@gc.edu.com  |
-| **Ebrima Touray** - CS Student at MDI       | 311-9658 \| touraye07@gmail.com |
+| Lecturer                              | Contact                             |
+| ------------------------------------- | ----------------------------------- |
+| **A. Camariana** - Designer & Teacher | 248-8842 \| camariana40@outlook.com |
+| **Ebrima Touray** - CS Student at MDI | 311-9658 \| touraye07@gmail.com     |
 
 ## Course Meetings
 
@@ -40,7 +40,7 @@ Assigned readings gives students the opportunity to go beyond this class and rea
 
 ## Quizzes
 
-This is a pre-lecture quiz, the intention is that, you should be able to answer the questions immediately obvious. If you do, that is a sign that, you are sufficiently engage with the material in this notes or the assigned reading links. If you find that, you cannot answer the quiz questions or you have to go back and find the answers, then that is a sign that, you are not engage with the material.
+This are pre-lecture quiz, the intention is that, you should be able to answer the questions immediately obvious. If you do, that is a sign that, you are sufficiently engage with the material in this notes or the assigned reading links. If you find that, you cannot answer the quiz questions or you have to go back and find the answers, then that is a sign that, you are not engage with the material.
 
 ## Exam
 
@@ -60,7 +60,7 @@ At the end of the course, there will be a pre-Exam and a final Exam to synthesiz
 
 1. Getting started with web development
 2. Command Line Basics 
-3. Basics of Git and Git-Hub
+3. Basics of Git and GitHub Pages
 4. HTML and CSS
 5. JavaScript
 6. Accessibility of Websites
