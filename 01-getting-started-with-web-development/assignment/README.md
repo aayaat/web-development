@@ -2,7 +2,7 @@
 
 In this assignment, you are to code a story page. Here is the design of the page. Study the design carefully and produce it into HTML and CSS.
 
-![A wise counting design](Screenshot_2021-02-18 A wise counting.png)
+![Design, a wise counting](./design-a-wise-counting.png)
 
 
 
