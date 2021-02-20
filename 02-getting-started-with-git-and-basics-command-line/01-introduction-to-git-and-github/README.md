@@ -164,7 +164,7 @@ Delete a folder with a file
 
 
 
-There are more complex commands, but for the purpose of this course this are the fews commands we may need. 
+There are more complex commands, but for the purpose of this course this are the few commands we may need. 
 
 
 
