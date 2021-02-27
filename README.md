@@ -17,9 +17,9 @@ This course is in the public domain, since everything here is not originally fro
 
 ## Course Meetings
 
-| Lecture Room         | Time                       |
-| -------------------- | -------------------------- |
-| MDI Lab 2 - Upstairs | Thursday 9:00am to 12:00pm |
+| Lecture Room         | Time                         |
+| -------------------- | ---------------------------- |
+| MDI Lab 2 - Upstairs | Wednesdays 9:00am to 12:00pm |
 
 ## Pre-requisites
 
