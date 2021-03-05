@@ -4,12 +4,18 @@ In this section we will look in to the basic Git and Git-hub. What is Git and Gi
 
 
 
+These section highlights the main topics 
+
+
+
 ## Topics
 
-* Introduction to Git and Git-hub
-* Installing basic softwares
-* Creating an Git-hub account
-* learning basic commands
+1. Command line basics
+2. Setting up git
+3. Introduction to git
+4. Git basics
 
 
+
+## Credit
 
