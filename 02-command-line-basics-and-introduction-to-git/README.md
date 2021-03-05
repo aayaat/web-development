@@ -17,5 +17,5 @@ These section highlights the main topics
 
 
 
-## Credit
+## 
 
